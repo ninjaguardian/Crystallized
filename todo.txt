@@ -1,0 +1,58 @@
+Blocks:
+    fix ore textures (looks like lapis still. maybe animated)
+    can get in all biome, more likely in custom
+
+Crystal Detector:
+    send action bar message not chat message
+    sound effects when using
+    break sound
+    add color/formatting
+    crafting recipe
+
+door,trapdoor,wall,slab...:
+    sounds
+    recipe
+    stonecutter?
+    mineable
+    custom button+pressure plate time/features
+
+armor:
+    equip sound effect
+    achievements
+    breaks sooooo qiuckly unlike netherite
+    recipe
+
+crystallized biome:
+    instead of making zombies drop crystal_shard, when we make a crystallized_zombie it can drop crystal_shard
+    instead of making stone drop crystal_shard, when we make a crystallized_stone it can drop crystal_shard
+
+everything:
+    recipie
+    breaking tool
+    creative tab
+
+crafting:
+    make things use compact_crystal not crystal_shard (make a custom block entity to get it. somehow netherite tools required)
+
+crystal_detector:
+    make it look above, or make it a radius
+
+woods:
+    everything tab
+
+leaves:
+    broken by hoe to drop something
+
+
+!:done
+?:come back to me
+
+! oregen
+! leaves
+! logs
+! custom tree trunk gen
+! custom tree leaves gen
+! tree
+! treegen
+? trade sapling (traders)
+  trade crystal_shard (custom villagers)

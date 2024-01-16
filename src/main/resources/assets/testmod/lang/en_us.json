@@ -1,0 +1,43 @@
+{
+  "item.testmod.crystal_shard": "Crystal Shard",
+  "item.testmod.crystal_detector": "Crystal Detector",
+
+  "tooltip.testmod.crystal_detector.tooltip": "§7Right click to find Crystal Ore!",
+
+  "block.testmod.crystal_block": "Block of Crystal",
+  "block.testmod.crystal_ore": "Crystal Ore",
+  "block.testmod.deepslate_crystal_ore": "Deepslate Crystal Ore",
+
+  "block.testmod.crystal_log": "Crystallized Log",
+  "block.testmod.stripped_crystal_log": "Stripped Crystallized Log",
+  "block.testmod.crystal_wood": "Crystallized Wood",
+  "block.testmod.stripped_crystal_wood": "Stripped Crystallized Wood",
+  "block.testmod.crystal_planks": "Crystallized Planks",
+  "block.testmod.crystal_leaves": "Crystallized Leaves",
+  "block.testmod.crystal_sapling": "Crystallized Sapling",
+
+  "block.testmod.crystal_stairs": "Crystallized Stairs",
+  "block.testmod.crystal_slab": "Crystallized Slab",
+  "block.testmod.crystal_button": "Crystallized Button",
+  "block.testmod.crystal_pressure_plate": "Crystallized Pressure Plate",
+  "block.testmod.crystal_fence": "Crystallized Fence",
+  "block.testmod.crystal_fence_gate": "Crystallized Fence Gate",
+  "block.testmod.crystal_wall": "Crystallized Wall",
+  "block.testmod.crystal_door": "Crystallized Door",
+  "block.testmod.locked_crystal_door": "Solid Crystallized Door",
+  "block.testmod.crystal_trapdoor": "Crystallized Trapdoor",
+  "block.testmod.locked_crystal_trapdoor": "Solid Crystallized Trapdoor",
+
+  "item.testmod.crystal_sword": "Crystal Sword",
+  "item.testmod.crystal_pickaxe": "Crystal Pickaxe",
+  "item.testmod.crystal_axe": "Crystal Axe",
+  "item.testmod.crystal_hoe": "Crystal Hoe",
+  "item.testmod.crystal_shovel": "Crystal Shovel",
+
+  "item.testmod.crystal_helmet": "Crystal Helmet",
+  "item.testmod.crystal_chestplate": "Crystal Chestplate",
+  "item.testmod.crystal_leggings": "Crystal Leggings",
+  "item.testmod.crystal_boots": "Crystal Boots",
+
+  "creativetab.test_tab": "Test Mod Tab"
+}
