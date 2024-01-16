@@ -1,7 +1,7 @@
-// 1.20.1	2024-01-15T22:51:19.9549833	Registries
-33961e42dcc38e83653898dff6c91a11454daa0c data/testmod/forge/biome_modifier/add_crystal_ore.json
-94be2fa6e5ebd2220afce65b5a55a300591107ed data/testmod/forge/biome_modifier/add_tree_crystal.json
-36debbfe1d40bbacd66a1cc788cfc3d40f6f71b6 data/testmod/worldgen/configured_feature/crystal_ore.json
-6e98fb0a7e7ca31001543f8309254aaa34e01d3e data/testmod/worldgen/configured_feature/crystal_tree.json
-9a55c1cb7470592c276e046725114fc38b311096 data/testmod/worldgen/placed_feature/crystal_ore_placed.json
-10b503d9f3583e4ef91de3d03e470acd03c749d3 data/testmod/worldgen/placed_feature/crystal_tree_placed.json
+// 1.20.1	2024-01-16T08:58:50.1690796	Registries
+71f6a58c7591debb9c42de7a5a35c23a71bd33ea data/crystallized/forge/biome_modifier/add_crystal_ore.json
+ab43d2d7509f1a28aaf0043be40e2efbe7749c7a data/crystallized/forge/biome_modifier/add_tree_crystal.json
+8e802e75e2247997043990cac469dece3beebc35 data/crystallized/worldgen/configured_feature/crystal_ore.json
+817152c4c46175599f9eec4f94c568ae83565335 data/crystallized/worldgen/configured_feature/crystal_tree.json
+d3644519322ad495fd113b0d624cfa6a8aaf721e data/crystallized/worldgen/placed_feature/crystal_ore_placed.json
+19f99dca37704112cb3b0df312d0504a64651405 data/crystallized/worldgen/placed_feature/crystal_tree_placed.json

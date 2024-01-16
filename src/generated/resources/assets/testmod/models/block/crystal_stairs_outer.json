@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/outer_stairs",
-  "textures": {
-    "bottom": "testmod:block/crystal_block",
-    "side": "testmod:block/crystal_block",
-    "top": "testmod:block/crystal_block"
-  }
-}

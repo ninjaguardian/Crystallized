@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "crystallized:block/crystal_slab"
+    },
+    "type=double": {
+      "model": "crystallized:block/crystal_block"
+    },
+    "type=top": {
+      "model": "crystallized:block/crystal_slab_top"
+    }
+  }
+}

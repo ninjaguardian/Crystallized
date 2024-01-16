@@ -1,7 +1,7 @@
 {
   "values": [
-    "testmod:crystal_block",
-    "testmod:crystal_ore",
-    "testmod:deepslate_crystal_ore"
+    "crystallized:crystal_block",
+    "crystallized:crystal_ore",
+    "crystallized:deepslate_crystal_ore"
   ]
 }

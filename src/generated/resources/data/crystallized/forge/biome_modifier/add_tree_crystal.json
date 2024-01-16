@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_mountain",
+  "features": "crystallized:crystal_tree_placed",
+  "step": "vegetal_decoration"
+}

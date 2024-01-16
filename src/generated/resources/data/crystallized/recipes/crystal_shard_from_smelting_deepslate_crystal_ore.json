@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 210,
+  "experience": 0.8,
+  "group": "crystal",
+  "ingredient": {
+    "item": "crystallized:deepslate_crystal_ore"
+  },
+  "result": "crystallized:crystal_shard"
+}

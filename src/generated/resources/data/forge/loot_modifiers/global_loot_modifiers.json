@@ -1,13 +1,13 @@
 {
   "entries": [
-    "testmod:crystal_shard_from_stronghold_crossing",
-    "testmod:crystal_shard_from_stronghold_corridor",
-    "testmod:crystal_shard_from_deepslate",
-    "testmod:crystal_detector_from_end_city",
-    "testmod:crystal_shard_from_end_city",
-    "testmod:crystal_shard_from_stone",
-    "testmod:crystal_shard_from_zombie",
-    "testmod:crystal_shard_from_ruins_sus"
+    "crystallized:crystal_shard_from_stronghold_crossing",
+    "crystallized:crystal_shard_from_stronghold_corridor",
+    "crystallized:crystal_shard_from_deepslate",
+    "crystallized:crystal_detector_from_end_city",
+    "crystallized:crystal_shard_from_end_city",
+    "crystallized:crystal_shard_from_stone",
+    "crystallized:crystal_shard_from_zombie",
+    "crystallized:crystal_shard_from_ruins_sus"
   ],
   "replace": false
 }

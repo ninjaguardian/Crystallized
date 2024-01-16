@@ -1,0 +1,43 @@
+{
+  "item.crystallized.crystal_shard": "Crystal Shard",
+  "item.crystallized.crystal_detector": "Crystal Detector",
+
+  "tooltip.crystallized.crystal_detector.tooltip": "§7Right click to find Crystal Ore!",
+
+  "block.crystallized.crystal_block": "Block of Crystal",
+  "block.crystallized.crystal_ore": "Crystal Ore",
+  "block.crystallized.deepslate_crystal_ore": "Deepslate Crystal Ore",
+
+  "block.crystallized.crystal_log": "Crystallized Log",
+  "block.crystallized.stripped_crystal_log": "Stripped Crystallized Log",
+  "block.crystallized.crystal_wood": "Crystallized Wood",
+  "block.crystallized.stripped_crystal_wood": "Stripped Crystallized Wood",
+  "block.crystallized.crystal_planks": "Crystallized Planks",
+  "block.crystallized.crystal_leaves": "Crystallized Leaves",
+  "block.crystallized.crystal_sapling": "Crystallized Sapling",
+
+  "block.crystallized.crystal_stairs": "Crystallized Stairs",
+  "block.crystallized.crystal_slab": "Crystallized Slab",
+  "block.crystallized.crystal_button": "Crystallized Button",
+  "block.crystallized.crystal_pressure_plate": "Crystallized Pressure Plate",
+  "block.crystallized.crystal_fence": "Crystallized Fence",
+  "block.crystallized.crystal_fence_gate": "Crystallized Fence Gate",
+  "block.crystallized.crystal_wall": "Crystallized Wall",
+  "block.crystallized.crystal_door": "Crystallized Door",
+  "block.crystallized.locked_crystal_door": "Solid Crystallized Door",
+  "block.crystallized.crystal_trapdoor": "Crystallized Trapdoor",
+  "block.crystallized.locked_crystal_trapdoor": "Solid Crystallized Trapdoor",
+
+  "item.crystallized.crystal_sword": "Crystal Sword",
+  "item.crystallized.crystal_pickaxe": "Crystal Pickaxe",
+  "item.crystallized.crystal_axe": "Crystal Axe",
+  "item.crystallized.crystal_hoe": "Crystal Hoe",
+  "item.crystallized.crystal_shovel": "Crystal Shovel",
+
+  "item.crystallized.crystal_helmet": "Crystal Helmet",
+  "item.crystallized.crystal_chestplate": "Crystal Chestplate",
+  "item.crystallized.crystal_leggings": "Crystal Leggings",
+  "item.crystallized.crystal_boots": "Crystal Boots",
+
+  "creativetab.crystallized": "Crystallized"
+}

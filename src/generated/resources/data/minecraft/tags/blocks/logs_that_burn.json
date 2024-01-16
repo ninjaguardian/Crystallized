@@ -1,8 +1,8 @@
 {
   "values": [
-    "testmod:crystal_log",
-    "testmod:crystal_wood",
-    "testmod:stripped_crystal_log",
-    "testmod:stripped_crystal_wood"
+    "crystallized:crystal_log",
+    "crystallized:crystal_wood",
+    "crystallized:stripped_crystal_log",
+    "crystallized:stripped_crystal_wood"
   ]
 }
