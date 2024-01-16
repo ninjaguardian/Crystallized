@@ -2,6 +2,8 @@ package net.obf.crystallized;
 
 import com.mojang.logging.LogUtils;
 import net.minecraft.world.item.CreativeModeTabs;
+import net.minecraft.world.level.block.Blocks;
+import net.minecraft.world.level.block.FlowerPotBlock;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
@@ -47,7 +49,9 @@ public class Crystallized {
     }
 
     private void commonSetup(final FMLCommonSetupEvent event) {
-
+        event.enqueueWork(() -> {
+            ((FlowerPotBlock) Blocks.FLOWER_POT).addPlant(ModBlocks.CRYSTAL_SAPLING.getId(), ModBlocks.POTTED_CRYSTAL_SAPLING);
+        });
     }
 
     private void addCreative(BuildCreativeModeTabContentsEvent event) {

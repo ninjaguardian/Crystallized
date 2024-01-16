@@ -220,6 +220,10 @@ public class ModBlocks {
                     .mapColor(MapColor.COLOR_LIGHT_BLUE)
             ));
 
+    public static final RegistryObject<Block> POTTED_CRYSTAL_SAPLING = BLOCKS.register("potted_crystal_sapling",
+            () -> new FlowerPotBlock(() -> ((FlowerPotBlock) Blocks.FLOWER_POT),ModBlocks.CRYSTAL_SAPLING,
+                    BlockBehaviour.Properties.copy(Blocks.POTTED_OAK_SAPLING).noOcclusion()));
+
     //----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
     public static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {

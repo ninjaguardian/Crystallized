@@ -48,6 +48,8 @@ public class ModBlockLootTables extends BlockLootSubProvider {
         this.dropSelf(ModBlocks.CRYSTAL_WOOD.get());
         this.dropSelf(ModBlocks.STRIPPED_CRYSTAL_WOOD.get());
         this.dropSelf(ModBlocks.CRYSTAL_SAPLING.get());
+        this.add(ModBlocks.POTTED_CRYSTAL_SAPLING.get(), createPotFlowerItemTable(ModBlocks.CRYSTAL_SAPLING.get()));
+
 
         this.add(ModBlocks.CRYSTAL_SLAB.get(), block ->
                 createSlabItemTable(ModBlocks.CRYSTAL_SLAB.get()));
@@ -57,6 +59,7 @@ public class ModBlockLootTables extends BlockLootSubProvider {
                 createDoorTable(ModBlocks.LOCKED_CRYSTAL_DOOR.get()));
         this.add(ModBlocks.CRYSTAL_LEAVES.get(), block ->
                 createLeavesDrops(block, ModBlocks.CRYSTAL_SAPLING.get(), NORMAL_LEAVES_SAPLING_CHANCES));
+
     }
 
     protected LootTable.Builder createCustomOreDrops(Block p_251306_, Item item, float min, float max) {

@@ -50,6 +50,8 @@ public class ModBlockStateProvider extends BlockStateProvider {
         leavesBlock(ModBlocks.CRYSTAL_LEAVES);
 
         saplingBlock(ModBlocks.CRYSTAL_SAPLING);
+        simpleBlockWithItem(ModBlocks.POTTED_CRYSTAL_SAPLING.get(), models().singleTexture("potted_crystal_sapling", new ResourceLocation("flower_pot_cross"), "plant",
+                blockTexture(ModBlocks.CRYSTAL_SAPLING.get())).renderType("cutout"));
     }
 
     private void saplingBlock(RegistryObject<Block> blockRegistryObject) {

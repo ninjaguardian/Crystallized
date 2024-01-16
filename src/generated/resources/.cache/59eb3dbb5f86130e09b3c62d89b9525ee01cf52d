@@ -1,4 +1,4 @@
-// 1.20.1	2024-01-16T08:58:50.1675776	Loot Tables
+// 1.20.1	2024-01-16T12:10:10.4805772	Loot Tables
 b51e6e6c3cb9de96a4015e993c72486937170647 data/crystallized/loot_tables/blocks/crystal_block.json
 be2118b1daff46ed2916b2558d081486db23bbe3 data/crystallized/loot_tables/blocks/crystal_button.json
 b7b52ebaefea39ee128dc83a7ce15a7a3c6b2802 data/crystallized/loot_tables/blocks/crystal_door.json
@@ -18,5 +18,6 @@ f0872d2f7977d6c1e00fb2f9d833c8e9c9199893 data/crystallized/loot_tables/blocks/cr
 e02c6c4b57ae3d366576b61162a942a87a4092a1 data/crystallized/loot_tables/blocks/deepslate_crystal_ore.json
 d61855bfd1764f139f0341fe2a81d661feb5b19b data/crystallized/loot_tables/blocks/locked_crystal_door.json
 eda83da6da2393c7d8dd5d39a20f3b4fbc5d21a4 data/crystallized/loot_tables/blocks/locked_crystal_trapdoor.json
+7e5b5c0e60ec0901e2de28d8b5a915101c4cb2cd data/crystallized/loot_tables/blocks/potted_crystal_sapling.json
 e4ee34feb7641e3d199a2db5e94e3e3de279ec12 data/crystallized/loot_tables/blocks/stripped_crystal_log.json
 c0ea3cc0a731c801c17f36465c95313019da88f7 data/crystallized/loot_tables/blocks/stripped_crystal_wood.json
