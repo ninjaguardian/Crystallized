@@ -14,9 +14,12 @@ import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.obf.crystallized.block.ModBlocks;
+import net.obf.crystallized.block.entity.ModBlockEntities;
 import net.obf.crystallized.item.ModCreativeModTabs;
 import net.obf.crystallized.item.ModItems;
 import net.obf.crystallized.loot.ModLootModifiers;
+import net.obf.crystallized.sound.ModSounds;
+import net.obf.crystallized.villager.ModVillagers;
 import net.obf.crystallized.worldgen.tree.ModFoliagePlacers;
 import net.obf.crystallized.worldgen.tree.ModTrunkPlacerTypes;
 import org.slf4j.Logger;
@@ -40,6 +43,9 @@ public class Crystallized {
         ModLootModifiers.register(modEventBus);
         ModTrunkPlacerTypes.register(modEventBus);
         ModFoliagePlacers.register(modEventBus);
+        ModVillagers.register(modEventBus);
+        ModSounds.register(modEventBus);
+        ModBlockEntities.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 

@@ -52,6 +52,9 @@ public class ModBlockStateProvider extends BlockStateProvider {
         saplingBlock(ModBlocks.CRYSTAL_SAPLING);
         simpleBlockWithItem(ModBlocks.POTTED_CRYSTAL_SAPLING.get(), models().singleTexture("potted_crystal_sapling", new ResourceLocation("flower_pot_cross"), "plant",
                 blockTexture(ModBlocks.CRYSTAL_SAPLING.get())).renderType("cutout"));
+
+
+        simpleBlock(ModBlocks.CRYSTALLIZER.get(), new ModelFile.UncheckedModelFile(modLoc("block/crystallizer")));
     }
 
     private void saplingBlock(RegistryObject<Block> blockRegistryObject) {

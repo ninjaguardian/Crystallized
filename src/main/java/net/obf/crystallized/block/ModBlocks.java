@@ -17,6 +17,7 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.obf.crystallized.Crystallized;
+import net.obf.crystallized.block.custom.CrystallizerBlock;
 import net.obf.crystallized.block.custom.ModFlammableRotatedPillarBlock;
 import net.obf.crystallized.item.ModItems;
 import net.obf.crystallized.worldgen.tree.CrystalTreeGrower;
@@ -105,7 +106,7 @@ public class ModBlocks {
                     .requiresCorrectToolForDrops()
                     .mapColor(MapColor.LAPIS),
                     SoundEvents.AMETHYST_BLOCK_PLACE,
-                    SoundEvents.AMETHYST_BLOCK_CHIME
+                    SoundEvents.AMETHYST_BLOCK_STEP
             ));
     public static final RegistryObject<Block> CRYSTAL_WALL = registerBlock("crystal_wall",
             () -> new WallBlock(BlockBehaviour.Properties.of()
@@ -223,6 +224,14 @@ public class ModBlocks {
     public static final RegistryObject<Block> POTTED_CRYSTAL_SAPLING = BLOCKS.register("potted_crystal_sapling",
             () -> new FlowerPotBlock(() -> ((FlowerPotBlock) Blocks.FLOWER_POT),ModBlocks.CRYSTAL_SAPLING,
                     BlockBehaviour.Properties.copy(Blocks.POTTED_OAK_SAPLING).noOcclusion()));
+
+    public static final RegistryObject<Block> CRYSTALLIZER = registerBlock("crystallizer",
+            () -> new CrystallizerBlock(BlockBehaviour.Properties.of()
+                    .noOcclusion()
+                    .sound(SoundType.DRIPSTONE_BLOCK)
+                    .mapColor(MapColor.LAPIS)
+            ));
+
 
     //----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

@@ -43,6 +43,11 @@ woods:
 leaves:
     broken by hoe to drop something
 
+block entitites:
+    crystalizer:
+        put in an item and it will be cristalized
+        cost: crystal shard and a random ore that changes depending on the input item
+
 
 !:done
 ?:come back to me
@@ -56,3 +61,4 @@ leaves:
 ! treegen
 ? trade sapling (traders)
   trade crystal_shard (custom villagers)
+  crystal_zombie

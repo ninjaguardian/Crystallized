@@ -1,0 +1,14 @@
+{
+  "crystal_detector_found": {
+    "subtitles": "sounds.crystallized.crystal_detector_found",
+    "sounds": [
+      "crystallized:crystal_detector_found"
+    ]
+  },
+  "crystal_detector_not_found": {
+    "subtitles": "sounds.crystallized.crystal_detector_not_found",
+    "sounds": [
+      "crystallized:crystal_detector_not_found"
+    ]
+  }
+}

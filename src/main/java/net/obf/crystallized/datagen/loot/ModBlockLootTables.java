@@ -48,6 +48,7 @@ public class ModBlockLootTables extends BlockLootSubProvider {
         this.dropSelf(ModBlocks.CRYSTAL_WOOD.get());
         this.dropSelf(ModBlocks.STRIPPED_CRYSTAL_WOOD.get());
         this.dropSelf(ModBlocks.CRYSTAL_SAPLING.get());
+        this.dropSelf(ModBlocks.CRYSTALLIZER.get());
         this.add(ModBlocks.POTTED_CRYSTAL_SAPLING.get(), createPotFlowerItemTable(ModBlocks.CRYSTAL_SAPLING.get()));
 
 

@@ -16,6 +16,7 @@
   "block.crystallized.crystal_leaves": "Crystallized Leaves",
   "block.crystallized.crystal_sapling": "Crystallized Sapling",
   "block.crystallized.potted_crystal_sapling": "Potted Crystallized Sapling",
+  "block.crystallized.crystallizer": "Crystallizer",
 
   "block.crystallized.crystal_stairs": "Crystallized Stairs",
   "block.crystallized.crystal_slab": "Crystallized Slab",
@@ -39,6 +40,11 @@
   "item.crystallized.crystal_chestplate": "Crystal Chestplate",
   "item.crystallized.crystal_leggings": "Crystal Leggings",
   "item.crystallized.crystal_boots": "Crystal Boots",
+
+  "entity.minecraft.villager.crystallized.crystalobserver": "Crystal Observer",
+
+  "sounds.crystallized.crystal_detector_found": "Crystal Detector Found Crystal",
+  "sounds.crystallized.crystal_detector_not_found": "Crystal Detector Did Not Find Crystal",
 
   "creativetab.crystallized": "Crystallized"
 }

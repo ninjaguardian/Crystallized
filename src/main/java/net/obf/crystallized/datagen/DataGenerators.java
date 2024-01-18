@@ -34,5 +34,7 @@ public class DataGenerators {
         generator.addProvider(event.includeServer(),new ModGlobalLootModifiersProvider(packOutput));
 
         generator.addProvider(event.includeServer(), new ModWorldGenProvider(packOutput, lookupProvider));
+//        generator.addProvider(event.includeServer(),new ModPoiTypeTagsProvider(packOutput, lookupProvider, existingFileHelper));
+//      removed cuz we want a new villager not a new villager profession
     }
 }
