@@ -1,4 +1,5 @@
-// 1.20.1	2024-01-16T12:10:10.4805772	Loot Tables
+// 1.20.1	2024-02-04T09:40:35.4431117	Loot Tables
+9cf744ae4d3f946e4f5f788a788dcdb895a47c36 data/crystallized/loot_tables/blocks/crystallizer.json
 b51e6e6c3cb9de96a4015e993c72486937170647 data/crystallized/loot_tables/blocks/crystal_block.json
 be2118b1daff46ed2916b2558d081486db23bbe3 data/crystallized/loot_tables/blocks/crystal_button.json
 b7b52ebaefea39ee128dc83a7ce15a7a3c6b2802 data/crystallized/loot_tables/blocks/crystal_door.json

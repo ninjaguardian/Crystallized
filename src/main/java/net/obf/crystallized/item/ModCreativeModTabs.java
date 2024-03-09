@@ -50,6 +50,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModBlocks.CRYSTAL_PLANKS.get());
                         pOutput.accept(ModBlocks.CRYSTAL_LEAVES.get());
                         pOutput.accept(ModBlocks.CRYSTAL_SAPLING.get());
+                        pOutput.accept(ModBlocks.CRYSTALLIZER.get());
                     })
                     .build());
 

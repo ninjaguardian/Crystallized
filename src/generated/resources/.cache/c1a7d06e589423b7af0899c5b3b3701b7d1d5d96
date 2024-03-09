@@ -1,4 +1,5 @@
-// 1.20.1	2024-01-16T12:10:10.4795801	Block States: crystallized
+// 1.20.1	2024-02-04T09:40:35.4393553	Block States: crystallized
+9dcb2545013c88496c33adc455f10ab2eebbe8b5 assets/crystallized/blockstates/crystallizer.json
 f81ba3e8d504bbc60e43e2f134681b49871bbdb9 assets/crystallized/blockstates/crystal_block.json
 817769a63d6be57d0eabdeedbe5f69dabf2f7bf4 assets/crystallized/blockstates/crystal_button.json
 31e50c2fae99179a3b315c07ee75b917f1c40ec3 assets/crystallized/blockstates/crystal_door.json
@@ -76,6 +77,7 @@ e7f5099949e3d1091fa5d9e23a832052b7422a07 assets/crystallized/models/block/potted
 f5d07230a9f313c02882e3df47ea593e6454744c assets/crystallized/models/block/stripped_crystal_log_horizontal.json
 f6ac18709b116add470a74f3b5c58ed54b90a1cf assets/crystallized/models/block/stripped_crystal_wood.json
 b1260739e594981f5053612c84eda1ece1123768 assets/crystallized/models/block/stripped_crystal_wood_horizontal.json
+af06d4ef12b639b0c2e35fe491dce408a8beea8d assets/crystallized/models/item/crystallizer.json
 e1c21c1fabbec63ad44302532c004341e0f9a884 assets/crystallized/models/item/crystal_block.json
 38ffd8e848783892432ed1480099e0d6258b5dd7 assets/crystallized/models/item/crystal_leaves.json
 25467846a9f2861894fa4ee1b6acf777f2084426 assets/crystallized/models/item/crystal_log.json

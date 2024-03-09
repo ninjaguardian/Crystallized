@@ -37,8 +37,6 @@ public class CrystallizerBlock extends BaseEntityBlock {
     public RenderShape getRenderShape(BlockState p_49232_) {
         return RenderShape.MODEL;
     }
-
-
     @Override
     public void onRemove(BlockState pState, Level pLevel, BlockPos pPos, BlockState pNewState, boolean pIsMoving) {
         if (pState.getBlock() != pNewState.getBlock()) {

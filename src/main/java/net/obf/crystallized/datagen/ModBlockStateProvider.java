@@ -54,7 +54,7 @@ public class ModBlockStateProvider extends BlockStateProvider {
                 blockTexture(ModBlocks.CRYSTAL_SAPLING.get())).renderType("cutout"));
 
 
-        simpleBlock(ModBlocks.CRYSTALLIZER.get(), new ModelFile.UncheckedModelFile(modLoc("block/crystallizer")));
+        simpleBlockWithItem(ModBlocks.CRYSTALLIZER.get(), new ModelFile.UncheckedModelFile(modLoc("block/crystallizer")));
     }
 
     private void saplingBlock(RegistryObject<Block> blockRegistryObject) {

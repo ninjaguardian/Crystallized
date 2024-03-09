@@ -1,6 +1,7 @@
 package net.obf.crystallized;
 
 import com.mojang.logging.LogUtils;
+import net.minecraft.client.gui.screens.MenuScreens;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.FlowerPotBlock;
@@ -18,6 +19,8 @@ import net.obf.crystallized.block.entity.ModBlockEntities;
 import net.obf.crystallized.item.ModCreativeModTabs;
 import net.obf.crystallized.item.ModItems;
 import net.obf.crystallized.loot.ModLootModifiers;
+import net.obf.crystallized.screen.CrystallizerScreen;
+import net.obf.crystallized.screen.ModMenuTypes;
 import net.obf.crystallized.sound.ModSounds;
 import net.obf.crystallized.villager.ModVillagers;
 import net.obf.crystallized.worldgen.tree.ModFoliagePlacers;
@@ -46,6 +49,7 @@ public class Crystallized {
         ModVillagers.register(modEventBus);
         ModSounds.register(modEventBus);
         ModBlockEntities.register(modEventBus);
+        ModMenuTypes.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
@@ -121,6 +125,7 @@ public class Crystallized {
 
         @SubscribeEvent
         public static void onClientSetup(FMLClientSetupEvent event) {
+            MenuScreens.register(ModMenuTypes.CRYSTALLIZER_MENU.get(), CrystallizerScreen::new);
 
         }
     }

@@ -24,6 +24,7 @@ import net.minecraftforge.common.util.LazyOptional;
 import net.minecraftforge.items.IItemHandler;
 import net.minecraftforge.items.ItemStackHandler;
 import net.obf.crystallized.item.ModItems;
+import net.obf.crystallized.screen.CrystallizerMenu;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
@@ -103,7 +104,7 @@ public class CrystallizerBlockEntity extends BlockEntity implements MenuProvider
     @Nullable
     @Override
     public AbstractContainerMenu createMenu(int pContainerId, Inventory pPlayerInventory, Player pPlayer) {
-        return ;
+        return new CrystallizerMenu(pContainerId,pPlayerInventory,this,this.data);
     }
 
     @Override
@@ -158,7 +159,7 @@ public class CrystallizerBlockEntity extends BlockEntity implements MenuProvider
         boolean hasCraftingItem = this.itemHandler.getStackInSlot(INPUT_SLOT).getItem() == Items.NETHERITE_CHESTPLATE;
         boolean hasCrystalItem = this.itemHandler.getStackInSlot(CRYSTAL_SLOT).getItem() == ModItems.CRYSTAL_SHARD.get();
         ItemStack result = new ItemStack(ModItems.CRYSTAL_CHESTPLATE.get());
-        return hasCraftingItem && canInsertAmountIntoOutputSlot(result.getCount()) && canInstertItemIntoOutputSlot(result.getItem());
+        return hasCraftingItem && hasCrystalItem && canInsertAmountIntoOutputSlot(result.getCount()) && canInstertItemIntoOutputSlot(result.getItem());
     }
 
     private boolean canInstertItemIntoOutputSlot(Item item) {
@@ -168,6 +169,12 @@ public class CrystallizerBlockEntity extends BlockEntity implements MenuProvider
     private boolean canInsertAmountIntoOutputSlot(int count) {
         return this.itemHandler.getStackInSlot(OUTPUT_SLOT).getCount() + count <= this.itemHandler.getStackInSlot(OUTPUT_SLOT).getMaxStackSize();
     }
-
+//    private boolean canInstertItemIntoCrystalSlot(Item item) {
+//        return this.itemHandler.getStackInSlot(CRYSTAL_SLOT).isEmpty() || this.itemHandler.getStackInSlot(CRYSTAL_SLOT).is(item);
+//    }
+//
+//    private boolean canInsertAmountIntoCrystalSlot(int count) {
+//        return this.itemHandler.getStackInSlot(CRYSTAL_SLOT).getCount() + count <= this.itemHandler.getStackInSlot(CRYSTAL_SLOT).getMaxStackSize();
+//    }
 
 }
