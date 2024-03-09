@@ -10,4 +10,4 @@ This mod is still in the making and is VERY buggy!
 
 - [@ninjaguardian](https://www.github.com/ninjaguardian)
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-33c706.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
