@@ -1,11 +1,11 @@
-
+![Crystallized Title](https://i.imgur.com/s8xZWjQ.png)
 # Crystallized
 
 This mod is still in the making and is VERY buggy!
 
 ## Downloads
 [![Modrinth](https://i.imgur.com/emzH7On.png)](https://modrinth.com/project/crystallized)
-[![Github](https://i.imgur.com/lGPuSdT.png)](https://github.com/ninjaguardian/Crystallized/releases)
+[![Github](https://i.imgur.com/VOP6iuJm.png)](https://github.com/ninjaguardian/Crystallized/releases)
 
 ## Authors
 
