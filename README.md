@@ -1,6 +1,6 @@
 ![Crystallized Title](https://i.imgur.com/s8xZWjQ.png)
 
-#### *This mod is still in the making and is VERY buggy!*
+###### *This mod is still in the making and is VERY buggy!*
 
 ## Downloads
 [![Modrinth](https://i.imgur.com/emzH7On.png)](https://modrinth.com/project/crystallized)
