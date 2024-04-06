@@ -5,6 +5,7 @@ This mod is still in the making and is VERY buggy!
 
 ## Downloads
 [![Modrinth](https://i.imgur.com/emzH7On.png)](https://modrinth.com/project/crystallized)
+[![Github](https://i.imgur.com/lGPuSdT.png)](https://github.com/ninjaguardian/Crystallized/releases)
 
 ## Authors
 
