@@ -25,7 +25,7 @@ updateJSONURL="https://raw.githubusercontent.com/ninjaguardian/Crystallized/mast
 # A URL for the "homepage" for this mod, displayed in the mod UI
 displayURL="https://modrinth.com/mod/crystallized/" #optional
 # A file name (in the root of the mod JAR) containing a logo for display
-logoFile="banner_crystallized.png" #optional
+logoFile="title_banner_crystallized.png" #optional
 # A text field displayed in the mod UI
 credits="Thanks to kaupenjoe for the forge tutorials!" #optional
 # A text field displayed in the mod UI
