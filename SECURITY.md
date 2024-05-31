@@ -3,12 +3,10 @@
 ## Supported Versions
 
 
-| Version | Supported          |
+| Minecraft Version | Supported          |
 | ------- | ------------------ |
-| x.x.x   | :white_check_mark: |
-| x.x.x   | :x:                |
-| x.x.x   | :white_check_mark: |
-| < x.x   | :x:                |
+| 1.20.1   | :white_check_mark: |
+| < 1.20.1   | :x:                |
 
 ## Reporting a Vulnerability
 
