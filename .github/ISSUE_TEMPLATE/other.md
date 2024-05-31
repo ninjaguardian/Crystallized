@@ -3,7 +3,7 @@ name: Other
 about: Does not fit into other issues
 title: ''
 labels: other
-assignees: ''
+assignees: ninjaguardian
 
 ---
 
