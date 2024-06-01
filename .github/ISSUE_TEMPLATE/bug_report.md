@@ -27,6 +27,10 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. Windows 11]
  - Minecraft: [e.g. 1.20.2]
  - Crystallized: [e.g. 0.0.1]
+ - Mod Loader: [e.g. Forge 48.1.0]
+
+**Mods**
+An easy way to make a text file of your mods on windows is using `dir /b >modlist.txt` in cmd while in your mods folder, but a screenshot is alright.
 
 **Logs (If possible)**
 Minecraft log files to help us better understand the issue.
