@@ -3,8 +3,8 @@
 ###### *This mod is still in the making and is VERY buggy!*
 
 ## Downloads
-[![Modrinth](https://i.imgur.com/emzH7On.png)](https://modrinth.com/project/crystallized)
-[![Github](https://i.imgur.com/VOP6iuJm.png)](https://github.com/ninjaguardian/Crystallized/releases)
+[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/project/crystallized)
+[![Github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/available/github_vector.svg)](https://github.com/ninjaguardian/Crystallized/releases)
 
 ## Authors
 
