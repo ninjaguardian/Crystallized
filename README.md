@@ -6,6 +6,11 @@
 [![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/project/crystallized)
 [![Github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/available/github_vector.svg)](https://github.com/ninjaguardian/Crystallized/releases)
 
+## Other
+[![Changelog](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/documentation/changelog_vector.svg)](https://modrinth.com/mod/crystallized/changelog)
+[![Gallery](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/documentation/modrinth-gallery_vector.svg)](https://modrinth.com/mod/crystallized/gallery)
+[![Issues](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/documentation/issues_vector.svg)](https://github.com/ninjaguardian/Crystallized/issues)
+
 ## Authors
 
 - [@ninjaguardian](https://www.github.com/ninjaguardian)
