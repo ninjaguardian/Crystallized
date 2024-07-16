@@ -11,3 +11,7 @@
 ## Reporting a Vulnerability
 
 If there is a Vulnerability, please put it in the issues tab as 'bug' and I will try and fix it as soon as I can.
+
+If it is a serious risk, please contact me.
+
+[![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/compact-minimal/social/discord-singular_vector.svg)]()
