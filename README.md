@@ -10,7 +10,7 @@
 [![Changelog](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/documentation/changelog_vector.svg)](https://modrinth.com/mod/crystallized/changelog)
 [![Gallery](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/documentation/modrinth-gallery_vector.svg)](https://modrinth.com/mod/crystallized/gallery)
 [![Issues](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/documentation/issues_vector.svg)](https://github.com/ninjaguardian/Crystallized/issues)
-[![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/compact/social/discord-singular_vector.svg)](https://discord.gg/DShs9fa4N8)
+[![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/social/discord-singular_vector.svg)](https://discord.gg/DShs9fa4N8)
 
 ## Authors
 
